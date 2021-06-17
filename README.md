@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-🤓 I am Data Engineer | AWS Certified Cloud Practitioneer
+🤓 I am Data Engineer | [AWS Certified Cloud Practitioneer](https://www.credly.com/badges/4a6e053d-ce11-4e36-9c42-689feb584ded/public_url)
 
 🔧 Tech Stack:
 * Python | Java
