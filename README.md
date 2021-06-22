@@ -9,6 +9,7 @@
 * Python | Java
 * AWS
 * Airflow
+* Docker (vanilla Docker, docker compose, AWS ECS/ECR)
 * SQL
 * ElasticSearch
 * Kafka
