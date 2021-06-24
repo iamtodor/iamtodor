@@ -21,7 +21,7 @@
 * 📒 [medium](https://iamtodor.medium.com/)
 * ❓ [stackoverflow](https://stackoverflow.com/users/5151861/iamtodor)
 
-![iamtodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtodor&show_icons=true&count_private=true&theme=tokyonight)
+![iamtodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtodor&show_icons=true&count_private=true)
 
 
 
