@@ -3,7 +3,9 @@
 ## 🤓 I am:
 * Data Engineer
 * 5 years of commertial experience in IT: `Android Developer => Data Scientist => ML Engineer => Data Engineer`
-* [AWS Certified Cloud Practitioneer](https://www.credly.com/badges/4a6e053d-ce11-4e36-9c42-689feb584ded/public_url)
+* AWS 2x Certified:
+  * [AWS Certified Cloud Practitioneer](https://www.credly.com/badges/4a6e053d-ce11-4e36-9c42-689feb584ded/public_url)
+  * [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/741400de-d94d-4c49-baee-7c32df7ce755/public_url)
 
 ## 🔧 Data Engineer Technical Stack:
 * Python | Java
