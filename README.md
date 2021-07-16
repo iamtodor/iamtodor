@@ -28,9 +28,9 @@
 * Kafka Overview. Inner talk @Robota.ua:
     * [Slides](https://www.slideshare.net/IlyaTodor/kafka-overview-249770668)
 
-
 ## 📫 How to reach me:
 * 👽 [linkedin](https://www.linkedin.com/in/iamtodor/)
+* 📪 todor.ilya@gmail.com
 * 📒 [medium blog](https://iamtodor.medium.com/)
 * ❓ [stackoverflow](https://stackoverflow.com/users/5151861/iamtodor)
 
