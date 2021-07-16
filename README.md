@@ -9,9 +9,9 @@
 
 ## 🔧 Data Engineer Technical Stack:
 * Python | Java
-* AWS
+* AWS: DynamoDB, DMS, EC2, S3, IAM, SFPT, Lambda, EMR, Lake Formation, Glue, Athena, Kinesis Data Firehose, Amazon ElasticSearch, CloudFormation (IAC), Code Commit, Code Pipeline, Code Build
 * Airflow
-* Docker (vanilla Docker, docker compose, AWS ECS/ECR)
+* Docker: vanilla Docker, docker compose, AWS ECS/ECR
 * SQL
 * ElasticSearch
 * Kafka
