@@ -20,8 +20,8 @@
 
 ## ⚡ Tech Talks and Presentations:
 * Ingestion and historization in the Data Lake in AWS @HRS Group:
-    * [English version](https://www.youtube.com/watch?v=tZfN-8G0Yi0)
-    * [Russian version](https://www.youtube.com/watch?v=rNBDgCM6s3I)
+    * [English youtube recording](https://www.youtube.com/watch?v=tZfN-8G0Yi0)
+    * [Russian youtube recording](https://www.youtube.com/watch?v=rNBDgCM6s3I)
     * [Slides](https://www.slideshare.net/IlyaTodor/ingestion-and-historization-in-the-data-lake)
 * Data Catalog. Inner talk @HRS Group:
     * [Slides](https://www.slideshare.net/IlyaTodor/data-catalog)
