@@ -8,10 +8,13 @@
   * [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/741400de-d94d-4c49-baee-7c32df7ce755/public_url)
 
 ## 🔧 Data Engineer Technical Stack:
-* Python | Java
+* Python | Java | Scala
 * AWS: DynamoDB, DMS, EC2, CloudWatch, S3, IAM, SFPT, Lambda, EMR, Lake Formation, Glue, Athena, Kinesis Data Firehose, Amazon ElasticSearch, CloudFormation (IAC), Code Commit, Code Pipeline, Code Build, ECS, ECR
+* GCP | Databricks
 * Airflow
 * Docker
+* Jenkins
+* Prometheus + Grafana
 * SQL
 * ElasticSearch
 * Kafka
