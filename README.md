@@ -34,11 +34,11 @@
     * [Slides](https://www.slideshare.net/IlyaTodor/kafka-overview-249770668)
 
 ## 📫 How to reach me:
-* 👽 [linkedin](https://www.linkedin.com/in/iamtodor/)
-* 📪 todor.ilya@gmail.com
-* 📒 [medium blog](https://iamtodor.medium.com/)
-* 📒 [dev.to blog](https://dev.to/iamtodor)
-* ❓ [stackoverflow](https://stackoverflow.com/users/5151861/iamtodor)
+* 👽 [linkedin.com/iamtodor](https://www.linkedin.com/in/iamtodor/)
+* 📒 [iamtodor.medium.com](https://iamtodor.medium.com/)
+* 📒 [dev.to/iamtodor](https://dev.to/iamtodor)
+* ❓ [stackoverflow.com/iamtodor](https://stackoverflow.com/users/5151861/iamtodor)
+ * 📪 todor.ilya@gmail.com
 
 ![iamtodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtodor&show_icons=true&count_private=true)
 
