@@ -40,8 +40,9 @@
 ## 💻 From time to time I also do:
 
 - write a 📒 blog posts:
-    - [medium.com/iamtodor](https://iamtodor.medium.com/)
-    - [dev.to/iamtodor](https://dev.to/iamtodor)
+    - [EN] [medium.com/iamtodor](https://iamtodor.medium.com/)
+    - [EN] [dev.to/iamtodor](https://dev.to/iamtodor)
+    - [RU] [habr.com/iamtodor](https://habr.com/ru/users/iamtodor/posts/)
 - answer on ❓ [stackoverflow.com/iamtodor](https://stackoverflow.com/users/5151861/iamtodor?tab=profile)
 
 ## 📫 How to reach me:
