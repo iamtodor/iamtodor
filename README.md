@@ -36,9 +36,13 @@
     - [Slides](https://www.slideshare.net/IlyaTodor/data-catalog)
 - Kafka Overview. Inner talk @[Robota.ua](https://robota.ua/):
     - [Slides](https://www.slideshare.net/IlyaTodor/kafka-overview-249770668)
-- 📒 [iamtodor.medium.com](https://iamtodor.medium.com/)
-- 📒 [dev.to/iamtodor](https://dev.to/iamtodor)
-- ❓ [stackoverflow.com/iamtodor](https://stackoverflow.com/users/5151861/iamtodor)
+
+## 💻 From time to time I also do:
+
+- write a 📒 blog posts:
+    - [medium.com/iamtodor](https://iamtodor.medium.com/)
+    - [dev.to/iamtodor](https://dev.to/iamtodor)
+- answer on ❓ [stackoverflow.com/iamtodor](https://stackoverflow.com/users/5151861/iamtodor?tab=profile)
 
 ## 📫 How to reach me:
 
