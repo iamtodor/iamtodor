@@ -32,10 +32,10 @@
     - [English youtube recording](https://www.youtube.com/watch?v=tZfN-8G0Yi0)
     - [Russian youtube recording](https://www.youtube.com/watch?v=rNBDgCM6s3I)
     - [Slides](https://www.slideshare.net/IlyaTodor/ingestion-and-historization-in-the-data-lake)
-- Data Catalog. Inner talk @[HRS Group](https://www.hrs.com/):
-    - [Slides](https://www.slideshare.net/IlyaTodor/data-catalog)
-- Kafka Overview. Inner talk @[Robota.ua](https://robota.ua/):
-    - [Slides](https://www.slideshare.net/IlyaTodor/kafka-overview-249770668)
+- Data Catalog. Inner talk @[HRS Group](https://www.hrs.com/). [Slides](https://www.slideshare.net/IlyaTodor/data-catalog)
+- Kafka Overview. Inner talk @[Robota.ua](https://robota.ua/). [Slides](https://www.slideshare.net/IlyaTodor/kafka-overview-249770668)
+- Configuring python linting to be part of CI/CD using GitHub actions @[PyData #10, Krakow](https://www.meetup.com/pydata-krakow/events/288138380/). [Slides](https://www.slideshare.net/IlyaTodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions/IlyaTodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions)
+
 
 ## 💻 From time to time I also do:
 
