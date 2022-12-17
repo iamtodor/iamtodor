@@ -34,10 +34,10 @@
 - Ingestion and historization in the Data Lake in AWS at [HRS Group](https://www.hrs.com/):
     - 🇺🇸 [Youtube recording](https://www.youtube.com/watch?v=tZfN-8G0Yi0)
     - 🇷🇺 [Youtube recording](https://www.youtube.com/watch?v=rNBDgCM6s3I)
-    - 📘 [Slides](https://www.slideshare.net/IlyaTodor/ingestion-and-historization-in-the-data-lake)
-- Data Catalog. Inner talk at [HRS Group](https://www.hrs.com/). 📘 [Slides](https://www.slideshare.net/IlyaTodor/data-catalog)
-- Kafka Overview. Inner talk at [Robota.ua](https://robota.ua/). 📘 [Slides](https://www.slideshare.net/IlyaTodor/kafka-overview-249770668)
-- Configuring python linting to be part of CI/CD using GitHub actions at [PyData #10, Krakow](https://www.meetup.com/pydata-krakow/events/288138380/). 📘  [Slides](https://www.slideshare.net/IlyaTodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions/IlyaTodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions)
+    - 📘 [Slides](https://www.slideshare.net/iamtodor/ingestion-and-historization-in-the-data-lake)
+- Data Catalog. Inner talk at [HRS Group](https://www.hrs.com/). 📘 [Slides](https://www.slideshare.net/iamtodor/data-catalog)
+- Kafka Overview. Inner talk at [Robota.ua](https://robota.ua/). 📘 [Slides](https://www.slideshare.net/iamtodor/kafka-overview-249770668)
+- Configuring python linting to be part of CI/CD using GitHub actions at [PyData #10, Krakow](https://www.meetup.com/pydata-krakow/events/288138380/). 📘  [Slides](https://www.slideshare.net/iamtodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions)
 
 
 ## 💻 From time to time I also do:
