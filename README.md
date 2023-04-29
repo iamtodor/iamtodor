@@ -13,7 +13,7 @@
   - [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/4ef80ab8-53ee-4486-8482-21b876cfcf3a/public_url)
   - [dbt Fundamentals](https://www.credential.net/fe4a3288-a48b-4b97-9368-ed65641d3f5a#gs.kflk9n)
 
-## 🔧 Data Engineer Technical Stack:
+## 🔧 Data/DataOps Engineer Technical Stack:
 
 - Python | Java | Scala
 - AWS: DynamoDB, DMS, EC2, CloudWatch, S3, IAM, SFPT, Lambda, EMR, Lake Formation, Glue, Athena, Kinesis Data Firehose, Amazon ElasticSearch, CDK/CloudFormation (IAC), Code Commit, Code Pipeline, Code Build, ECS, ECR
@@ -54,9 +54,6 @@
 - 📪 todor.ilya@gmail.com
 
 ![iamtodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtodor&show_icons=true&count_private=true)
-
-
-
 
 <!--
 iamtodor/iamtodor-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
