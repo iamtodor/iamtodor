@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<p align="center"> <a href="https://supportukrainenow.org/" target="_blank"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-ukraine_1f1fa-1f1e6.png" alt="Ukraine" width="50" height="50"/> </a>
+![iamtodor Data/DataOps Engineer](assets/banner.png)
 
 ## 🤓 I am:
 
