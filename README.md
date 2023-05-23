@@ -1,4 +1,4 @@
-![iamtodor Data/DataOps Engineer](assets/banner.png)
+![iamtodor Data/DataOps Engineer](assets/medium_banner.png)
 
 ## 🤓 I am:
 
@@ -10,7 +10,9 @@
     - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/741400de-d94d-4c49-baee-7c32df7ce755/public_url)
     - [AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/e4f8ad03-aaaa-493d-956d-8406dc1711c4/public_url)
     - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4a6e053d-ce11-4e36-9c42-689feb584ded/public_url)
-  - [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/4ef80ab8-53ee-4486-8482-21b876cfcf3a/public_url)
+  - 2x Airflow Certified:
+    - [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/4ef80ab8-53ee-4486-8482-21b876cfcf3a/public_url)
+    - [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/4ef80ab8-53ee-4486-8482-21b876cfcf3a/public_url)
   - [dbt Fundamentals](https://www.credential.net/fe4a3288-a48b-4b97-9368-ed65641d3f5a#gs.kflk9n)
 
 ## 🔧 Data/DataOps Engineer Technical Stack:
