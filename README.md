@@ -1,4 +1,4 @@
-![iamtodor Data/DataOps Engineer](assets/medium_banner.png)
+![iamtodor Data/DataOps Engineer](assets/banner.png)
 
 ## 🤓 I am:
 
