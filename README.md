@@ -22,7 +22,7 @@
 - GCP | Databricks
 - Airflow
 - Docker
-- Jenkins
+- Jenkins | GitHub Actions
 - dbt
 - Spark
 - Prometheus + Grafana
