@@ -5,7 +5,7 @@
 - Ukrainian 🇺🇦, living in Poland 🇵🇱
 - Data / DataOps Engineer
 - 5 years of commercial experience in IT: `Android Developer => Data Scientist => ML Engineer => Data / DataOps Engineer`
-- Cetrifications:
+- Certifications:
   - 3x AWS Certified:
     - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/741400de-d94d-4c49-baee-7c32df7ce755/public_url)
     - [AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/e4f8ad03-aaaa-493d-956d-8406dc1711c4/public_url)
@@ -39,7 +39,7 @@
     - 📘 [Slides](https://www.slideshare.net/iamtodor/ingestion-and-historization-in-the-data-lake)
 - Data Catalog. Inner talk at [HRS Group](https://www.hrs.com/). 📘 [Slides](https://www.slideshare.net/iamtodor/data-catalog)
 - Kafka Overview. Inner talk at [Robota.ua](https://robota.ua/). 📘 [Slides](https://www.slideshare.net/iamtodor/kafka-overview-249770668)
-- Configuring python linting to be part of CI/CD using GitHub actions at [PyData #10, Krakow](https://www.meetup.com/pydata-krakow/events/288138380/). 📘  [Slides](https://www.slideshare.net/iamtodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions)
+- Configuring Python linting to be part of CI/CD using GitHub actions at [PyData #10, Krakow](https://www.meetup.com/pydata-krakow/events/288138380/). 📘  [Slides](https://www.slideshare.net/iamtodor/configuring-python-linting-to-be-part-of-cicd-using-github-actions)
 
 
 ## 💻 From time to time I also do:
